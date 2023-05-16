@@ -1,7 +1,7 @@
 # Portfolio
 - [About me](#about-me)
 - [CV](#cv)
-- [Skills](#skills)
+- [Tech Skills](#tech-skills)
 - [Tools](#tools)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
@@ -9,7 +9,7 @@
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
   * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
-- [Books I have read](#books-i-have-read)
+- [Technical books read](#technical-books-read)
 
 ## About me
 Aspiring manual tester with a strong desire for a solid foundation and practice. Currently looking for a career path. I relly like to find any bugs and inconsistencies in software, to improve user experience and helps it grows better and faster. Proactive in teamwork, effective in learning, with strong results orientation.
@@ -25,3 +25,42 @@ PL Version
 
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1-yBsUe66NU8e0nF1KYRSj-8vuUuiceaZ/view?usp=share_link).
 
+## Tech Skills
+
+  - SQL(In Progress) 
+  - SCRUM
+  - Creating test cases
+  - Software testing
+  - Reporting bugs      
+  - DevTools
+  
+  
+  ## Tools
+
+  - SCRUM
+  - KANBAN
+  - JIRA
+  - Confluence
+  - TestRail
+  
+  
+  ## Courses
+
+__Podstawy manualnego testowania oprogramowania__  
+*online courses by [Tester Oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/), Udemy*  
+
+__PPraktyczny kurs testowania oprogramowania__  
+*online courses by [Testowanie Oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/), Udemy*  
+
+__MySQL tworzenie i zarządzanie bazami danych__  
+*online courses by [Krzysztof Raczynski](https://www.udemy.com/course/mysql-tworzenie-i-zarzadzanie-bazami-danych/), Udemy*  
+
+__Linux - linia komend dla początkujących...__  
+*online courses by [Rafal Mobilo](https://www.udemy.com/course/linux101/), Udemy*      In Progress
+
+## Technical Books read
+* Radosław Smilgin - [Zawód tester](https://ksiegarnia.pwn.pl/Zawod-tester.-Od-decyzji-do-zdobycia-doswiadczenia,743423772,p.html)
+
+ 
+
+  
