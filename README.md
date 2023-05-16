@@ -18,7 +18,7 @@ MORE TBA
 
 ## CV
 ENG Version
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/drive/folders/1H3OYNjqWcUzymfgs0j3B8mVSfjjcVK7f).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/14Sa92jydw36qoAiwp_C1QpCxlGhfed_q/view?usp=sharing).
 
 PL Version
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/drive/folders/1g4RxR_KIjH70i1NIeKDJsSQdtqgVa5nT).
