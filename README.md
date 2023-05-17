@@ -4,6 +4,7 @@
 - [Tech Skills](#tech-skills)
 - [Tools](#tools)
 - [Courses](#courses)
+- [Certificates](#certificates)
 - [Examples of my work](#examples-of-my-work)
   * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
@@ -60,6 +61,11 @@ __Linux - linia komend dla początkujących...__
 
 ## Technical Books read
 * Radosław Smilgin - [Zawód tester](https://ksiegarnia.pwn.pl/Zawod-tester.-Od-decyzji-do-zdobycia-doswiadczenia,743423772,p.html)
+
+
+## Certificates
+- [EF SET English Certificate C2 Proficient](https://www.efset.org/cert/zkjgL1)
+- 
 
  
 
