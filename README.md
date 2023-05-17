@@ -26,22 +26,22 @@ PL Version
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1-yBsUe66NU8e0nF1KYRSj-8vuUuiceaZ/view?usp=share_link).
 
 ## Tech Skills
-
-  - SQL(In Progress) 
-  - SCRUM
-  - Creating test cases
-  - Software testing
-  - Reporting bugs      
-  - DevTools
+ 
+  - Test Case Design and Execution
+  - Defect Reporting and Tracking
+  - Test Documentation
+  - Test Techniques and Methodologies
+  - SQL(In Progress)
+  - Communication and Collaboration
   
   
   ## Tools
 
-  - SCRUM
-  - KANBAN
   - JIRA
   - Confluence
   - TestRail
+  - MySQL Workbench
+  - 
   
   
   ## Courses
