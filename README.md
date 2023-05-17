@@ -16,7 +16,6 @@ My name is Tomasz Maksimowicz. I am an aspiring manual tester with a strong desi
 
 [LinkedIn](https://www.linkedin.com/in/tomasz-maksimowicz-74a33116b/)
 
-MORE TBA
 
  ## CV
 
@@ -39,7 +38,7 @@ MORE TBA
   - JIRA
   - Confluence
   - TestRail
-  - MySQL Workbench 
+  - MySQL Workbench (In Progress)
   
   
 ## Courses
@@ -49,9 +48,9 @@ MORE TBA
   - Praktyczny kurs testowania oprogramowania
 *online courses by [Testowanie Oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/), Udemy*
   - MySQL tworzenie i zarządzanie bazami danych
-*online courses by [Krzysztof Raczynski](https://www.udemy.com/course/mysql-tworzenie-i-zarzadzanie-bazami-danych/), Udemy*
+*online courses by [Krzysztof Raczynski](https://www.udemy.com/course/mysql-tworzenie-i-zarzadzanie-bazami-danych/), Udemy*   In Progress
   - Linux - linia komend dla początkujących...
-*online courses by [Rafal Mobilo](https://www.udemy.com/course/linux101/), Udemy*      In Progres
+*online courses by [Rafal Mobilo](https://www.udemy.com/course/linux101/), Udemy*      In Progress
 
 
 ## Certificates
