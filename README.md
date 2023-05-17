@@ -6,8 +6,8 @@
 - [Courses](#courses)
 - [Certificates](#certificates)
 - [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira-during-GoIT-Marathon)
+  * [Bug reports and work in Jira during GoIT Marathon](bug-reports-and-work-in-jira-during-GoIT-Marathon)
+  * [Test cases on spreadsheets during Guru99 project](Test-cases-on-spreadsheets-during-Guru99-project)
   
 - [Technical books read](#technical-books-read)
 
@@ -73,6 +73,11 @@ MORE TBA
   * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1OtxjV1DlqcsXsi2gz1KH8VWnGHVZw6L0/view?usp=share_link).
   * Bug #4. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1XiU0Z5f_pJPnv7URLO3zzr7A0mTgICHe/view?usp=share_link).
   * Bug #5. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1swVZn4jERGo_JYjLwp4R6sHpDiNQ-zMQ/view?usp=share_link).
- 
+
+### Test cases on spreadsheets during Guru99 project
+
+- Some of the test cases, from Guru99 project. Full project specification is available on this [Link](https://drive.google.com/file/d/1Ung9J6vhVkQ5SP282S_LeDnTX_U2uP_8/view?usp=share_link).
+  * Test cases for New Customer, New Account, Balance Enquiry and Customized Statement Form. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1Li4frAsMfgC6Gczj-uEXCwOIFxBEBqGBCjw9MYxYt10/edit?usp=sharing).
+  
 
   
