@@ -13,19 +13,18 @@
 - [Technical books read](#technical-books-read)
 
 ## About me
-Aspiring manual tester with a strong desire for a solid foundation and practice. Currently looking for a career path. I relly like to find any bugs and inconsistencies in software, to improve user experience and helps it grows better and faster. Proactive in teamwork, effective in learning, with strong results orientation.
+My name is Tomasz Maksimowicz. I am an aspiring manual tester with a strong desire for a solid foundation and practice. Currently looking for a career path. I relly like to find any bugs and inconsistencies in software, to improve user experience and helps it grows better and faster. Proactive in teamwork, effective in learning, with strong results orientation.
+
+[LinkedIn](https://www.linkedin.com/in/tomasz-maksimowicz-74a33116b/)
 
 MORE TBA
 
 ## CV
-ENG Version
 
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/14Sa92jydw36qoAiwp_C1QpCxlGhfed_q/view?usp=sharing).
-
-PL Version
-
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1-yBsUe66NU8e0nF1KYRSj-8vuUuiceaZ/view?usp=share_link).
-
+- ENG Version - you can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/14Sa92jydw36qoAiwp_C1QpCxlGhfed_q/view?usp=sharing).
+- PL Version - you can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1-yBsUe66NU8e0nF1KYRSj-8vuUuiceaZ/view?usp=share_link).
+ 
+ 
 ## Tech Skills
  
   - Test Case Design and Execution
@@ -42,22 +41,20 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
   - Confluence
   - TestRail
   - MySQL Workbench
-  - 
+  
   
   
   ## Courses
+  
+  - Podstawy manualnego testowania oprogramowania 
+*online courses by [Tester Oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/), Udemy*
+  - Praktyczny kurs testowania oprogramowania
+*online courses by [Testowanie Oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/), Udemy*
+  - MySQL tworzenie i zarządzanie bazami danych
+*online courses by [Krzysztof Raczynski](https://www.udemy.com/course/mysql-tworzenie-i-zarzadzanie-bazami-danych/), Udemy*
+  - Linux - linia komend dla początkujących...
+*online courses by [Rafal Mobilo](https://www.udemy.com/course/linux101/), Udemy*      In Progres
 
--__Podstawy manualnego testowania oprogramowania__  
-*online courses by [Tester Oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/), Udemy*  
-
--__PPraktyczny kurs testowania oprogramowania__  
-*online courses by [Testowanie Oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/), Udemy*  
-
--__MySQL tworzenie i zarządzanie bazami danych__  
-*online courses by [Krzysztof Raczynski](https://www.udemy.com/course/mysql-tworzenie-i-zarzadzanie-bazami-danych/), Udemy*  
-
--__Linux - linia komend dla początkujących...__  
-*online courses by [Rafal Mobilo](https://www.udemy.com/course/linux101/), Udemy*      In Progress
 
 ## Technical Books read
 * Radosław Smilgin - [Zawód tester](https://ksiegarnia.pwn.pl/Zawod-tester.-Od-decyzji-do-zdobycia-doswiadczenia,743423772,p.html)
