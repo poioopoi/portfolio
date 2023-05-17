@@ -47,16 +47,16 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
   
   ## Courses
 
-__Podstawy manualnego testowania oprogramowania__  
+-__Podstawy manualnego testowania oprogramowania__  
 *online courses by [Tester Oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/), Udemy*  
 
-__PPraktyczny kurs testowania oprogramowania__  
+-__PPraktyczny kurs testowania oprogramowania__  
 *online courses by [Testowanie Oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/), Udemy*  
 
-__MySQL tworzenie i zarządzanie bazami danych__  
+-__MySQL tworzenie i zarządzanie bazami danych__  
 *online courses by [Krzysztof Raczynski](https://www.udemy.com/course/mysql-tworzenie-i-zarzadzanie-bazami-danych/), Udemy*  
 
-__Linux - linia komend dla początkujących...__  
+-__Linux - linia komend dla początkujących...__  
 *online courses by [Rafal Mobilo](https://www.udemy.com/course/linux101/), Udemy*      In Progress
 
 ## Technical Books read
