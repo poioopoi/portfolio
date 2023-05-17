@@ -65,7 +65,6 @@ __Linux - linia komend dla początkujących...__
 
 ## Certificates
 - [EF SET English Certificate C2 Proficient](https://www.efset.org/cert/zkjgL1)
-- 
 
  
 
