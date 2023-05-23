@@ -54,7 +54,7 @@ My name is Tomasz Maksimowicz. I am an aspiring manual tester with a strong desi
 
 
 ## Certificates
-- [EF SET English Certificate C2 Proficient](https://www.efset.org/cert/zkjgL1)
+- [EF SET English Certificate C1 Proficient](https://www.efset.org/cert/zkjgL1)
 
 
 ## Examples of my work
